@@ -1,0 +1,20 @@
+# NEXUS Pipeline — Python dependencies
+# Tested on Kaggle Notebooks (Python 3.10/3.11, 2x T4 GPU); CPU also works.
+# To lock the exact original environment, run on that machine:
+#   pip freeze > requirements.lock.txt
+anthropic>=0.40
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+spacy>=3.7
+sentence-transformers>=2.7
+transformers>=4.40
+torch>=2.1
+vaderSentiment>=3.3.2
+langdetect>=1.0.9
+openpyxl>=3.1
+matplotlib>=3.8
+# spaCy English model (also auto-downloaded at Stage 2):
+#   python -m spacy download en_core_web_sm

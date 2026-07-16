@@ -1,0 +1,21 @@
+# Runtime outputs (contain review sentence text — never push)
+outputs/
+*.pkl
+*.npy
+annotation_cache*.csv
+labeled_dataset*.csv
+classified_*.csv
+sentences.csv
+human_annotation_task.csv
+human_labels.csv
+test_set_results.csv
+
+# Real input data is not redistributable (platform ToS / GDPR)
+data/*
+!data/sample_reviews.csv
+
+# Python / misc
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/

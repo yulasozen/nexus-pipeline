@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the thesis below."
+title: "NEXUS Pipeline — NLP-driven Experienscape Understanding System"
+type: software
+authors:
+  - family-names: "Özen"
+    given-names: "Ulas"
+version: "1.0.0"
+date-released: "2026-07-16"
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Automated Analysis of Cruise Passenger Experiences: A Natural Language Processing Approach to Ship Design Optimization"
+  authors:
+    - family-names: "Özen"
+      given-names: "Ulas"
+  institution:
+    name: "Aalto University, School of Engineering"
+  year: 2026
