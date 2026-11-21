@@ -4,8 +4,7 @@
 
 Reference implementation for the Master's thesis:
 
-> Özen, U. (2026). *Automated Analysis of Cruise Passenger Experiences: A Natural Language Processing Approach to Ship Design Optimization.* Aalto University, School of Engineering.
-> *(Aaltodoc link / DOI will be added upon publication.)*
+> Özen, U. (2026). *Automated Analysis of Cruise Passenger Experiences: A Natural Language Processing Approach to Ship Design Optimization* [Master's thesis, Aalto University, School of Engineering]. Aaltodoc: https://urn.fi/URN:NBN:fi:aalto-202608186156
 
 Developed within the **CruiseFlex — Design for a Sustainable Lifecycle** project, funded by Business Finland (3179/31/2025).
 
